@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-algos for sorting
+Sorting Algoriths in Javascript
